@@ -1,6 +1,6 @@
 ---
-title: "Teaching experience 1" 
 <img src='/images/den4.png' width="230" align="left" style="margin-right:50px">  
+title: "Teaching experience 1" 
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
